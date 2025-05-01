@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 
 // CORS implementation
 const corsOptions = {
-  origin: "https://os.netlabdte.com",
+  origin: "https://sbd9-abed.vercel.app/",
   methods: ["GET", "POST", "PUT", "DELETE"],
 };
 
